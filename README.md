@@ -1,4 +1,5 @@
 see live https://bank-website-one.vercel.app/
+back end isn't connected. 
 
 This is a website done for Openclassroom
 backend can be found at https://github.com/AZAM-Fabien/ArgentBank-website
